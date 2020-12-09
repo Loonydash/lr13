@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\WindowsForms12\bin\Debug\WindowsForms12.exe.config
+C:\Users\user\source\repos\WindowsForms12\bin\Debug\WindowsForms12.exe
+C:\Users\user\source\repos\WindowsForms12\bin\Debug\WindowsForms12.pdb
+C:\Users\user\source\repos\WindowsForms12\obj\Debug\WindowsForms12.csprojAssemblyReference.cache
+C:\Users\user\source\repos\WindowsForms12\obj\Debug\WindowsForms12.Form1.resources
+C:\Users\user\source\repos\WindowsForms12\obj\Debug\WindowsForms12.Properties.Resources.resources
+C:\Users\user\source\repos\WindowsForms12\obj\Debug\WindowsForms12.csproj.GenerateResource.cache
+C:\Users\user\source\repos\WindowsForms12\obj\Debug\WindowsForms12.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\WindowsForms12\obj\Debug\WindowsForms12.exe
+C:\Users\user\source\repos\WindowsForms12\obj\Debug\WindowsForms12.pdb
+C:\Users\user\source\repos\WindowsForms12\obj\Debug\WindowsForms12.Menu.resources
+C:\Users\user\source\repos\WindowsForms12\obj\Debug\WindowsForms12.Form2.resources
+C:\Users\user\source\repos\WindowsForms12\obj\Debug\WindowsForms12.Form3.resources
+C:\Users\user\source\repos\WindowsForms12\obj\Debug\WindowsForms12.Form4.resources
